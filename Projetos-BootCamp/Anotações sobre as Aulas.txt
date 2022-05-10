@@ -1,0 +1,8 @@
+* Visto até agora:
+
+Boas vindas do curso TQI FullStack Developer
+O que saber para ser protagonista em um Bootcamp
+Introdução a Programação e Pensamento Computacional
+Introdução ao Git e ao GitHub
+Criar um repositório com o conhecimento adquirido
+Aula inaugural será dia 19/05/2022 para finalizar módulo 1 
